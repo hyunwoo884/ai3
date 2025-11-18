@@ -78,15 +78,15 @@ CONTENT_BY_LABEL: dict[str, dict[str, list[str]]] = {
 
 labels[1]: {
        "texts": ["고양이는 민첩합니다", "고양이는 사랑스럽습니다", "고양이는 꼬리가 깁니다"],
-       "images": ["https://image.dongascience.com/Photo/2017/03/14900752352661.jpg"],
-       "videos": ["https://youtu.be/ZeSS5yQ3A7Y"]
+       "images": ["https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJRVyLbmUUrp61vQ7_fkz35ViGCYwX8iSAZw&s"],
+       "videos": ["https://youtu.be/Hh3oBa-ErhE?si=yObGx6MSwZzh9s6D"]
      },
 
 
 labels[2]: {
        "texts": ["햄스터는 크기가 작습니다", "햄스터는 귀엽습니다", "햄스터는 꼬리가 짧습니다"],
-       "images": ["https://image.dongascience.com/Photo/2017/03/14900752352661.jpg"],
-       "videos": ["https://youtu.be/ZeSS5yQ3A7Y"]
+       "images": ["https://images.mypetlife.co.kr/content/uploads/2019/09/09152804/ricky-kharawala-adK3Vu70DEQ-unsplash.jpg"],
+       "videos": ["https://youtu.be/rwjLBG7NPMg?si=XVmcFGYcbkjH3VNW"]
      },
 }
 
