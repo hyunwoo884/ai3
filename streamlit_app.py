@@ -70,7 +70,21 @@ st.markdown("---")
 CONTENT_BY_LABEL: dict[str, dict[str, list[str]]] = {
 
      labels[0]: {
-       "texts": ["강아지는 크기가 큽니다", "강아지는 귀엽습니다", "강아지는 꼬리가 적당히 깁니다"],
+       "texts": ["강아지는 크기가 큽니다", "강아지는 안정을 줍나다", "강아지는 꼬리가 적당히 깁니다"],
+       "images": ["https://image.dongascience.com/Photo/2017/03/14900752352661.jpg"],
+       "videos": ["https://youtu.be/ZeSS5yQ3A7Y"]
+     },
+
+
+labels[1]: {
+       "texts": ["고양이는 민첩합니다", "고양이는 사랑스럽습니다", "고양이는 꼬리가 깁니다"],
+       "images": ["https://image.dongascience.com/Photo/2017/03/14900752352661.jpg"],
+       "videos": ["https://youtu.be/ZeSS5yQ3A7Y"]
+     },
+
+
+labels[2]: {
+       "texts": ["햄스터는 크기가 작습니다", "햄스터는 귀엽습니다", "햄스터는 꼬리가 짧습니다"],
        "images": ["https://image.dongascience.com/Photo/2017/03/14900752352661.jpg"],
        "videos": ["https://youtu.be/ZeSS5yQ3A7Y"]
      },
